@@ -1,0 +1,36 @@
+[
+  {
+    "Patient ID": "123",
+    "Name": "John Doe",
+    "Phone": "1234567890",
+    "Date": "2024-12-24",
+    "Service Provider": "Dr. Smith",
+    "Clinical Notes": "Checkup required",
+    "Diagnosis": "Fever",
+    "Medicine Rx": "Paracetamol",
+    "Yoga Rx": "Yoga for relaxation",
+    "Diet Rx": "Low-sodium diet",
+    "Test Report": "Blood test",
+    "Advice": "Take rest",
+    "Follow Up": "Next week",
+    "Edit": "Edit",
+    "Delete": "Delete"
+  },
+  {
+    "Patient ID": "124",
+    "Name": "Jane Smith",
+    "Phone": "9876543210",
+    "Date": "2024-12-25",
+    "Service Provider": "Dr. Brown",
+    "Clinical Notes": "Routine checkup",
+    "Diagnosis": "Healthy",
+    "Medicine Rx": "None",
+    "Yoga Rx": "Light stretching",
+    "Diet Rx": "Balanced diet",
+    "Test Report": "None",
+    "Advice": "Continue healthy habits",
+    "Follow Up": "Next month",
+    "Edit": "Edit",
+    "Delete": "Delete"
+  }
+]
